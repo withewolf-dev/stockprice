@@ -38,7 +38,7 @@ function App() {
         Tell me!
       </button>
         </div>
-        {result !== null && <h1>{result}</h1>}
+        {result !== null && <h3>{result}</h3>}
      <Footer/>
     </div>
   );
